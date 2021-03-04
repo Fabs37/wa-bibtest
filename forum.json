@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"neubau.json#start0-forum"
                 }],
          "type":"tilelayer",
          "visible":true,
