@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"Audioplayer - Kopie.html"
+                 "value":"audioplayer2.html"
                 }],
          "type":"tilelayer",
          "visible":true,
