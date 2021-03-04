@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.deutschhaus.de\/fileadmin\/videos\/anmeldung\/deutsch_manga.mp4"
+                 "value":"https:\/\/www.deutschhaus.de\/fileadmin\/videos\/anmeldung\/deutsch_manga.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"Klassenrap_der_7b_final.mp3"
+                 "value":"Audioplayer - Kopie.html"
                 }],
          "type":"tilelayer",
          "visible":true,
