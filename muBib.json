@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"audioplayer2.html"
+                 "value":"https:\/\/fabs37.github.io\/wa-bibtest\/audioplayer2.html"
                 }],
          "type":"tilelayer",
          "visible":true,
